@@ -28,5 +28,9 @@ a que se instale correctamente.
 *******************
 
 *Si se está alejado del microfono que se está usando para la adquisision de las señales de audio, hablar fuerte y claro
+
+
 *Si se está en una ambiente ruidoso, usar microfonos con cancelación de ruido
+
+
 *Hablar justo en en momento que el programa haya activado el microfono para hacer una adquisición de la señal correcta
