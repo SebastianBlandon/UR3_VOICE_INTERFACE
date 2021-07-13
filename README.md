@@ -14,7 +14,7 @@ para instalar el paquete que hace la sintesis de voz se usa:   pip install pytts
 para instalar el paquete que envia las notificaciones se usa:   pip install win10toast          
 
 
-**la ultima libreria (win10toast) es nativa de Windows, si tiene otro OS puede insatalas las dependencias o corra el .py que no usa esta libreria
+**la ultima libreria (win10toast) es nativa de Windows, si tiene otro OS puede insatalas las dependencias o corra el .py llamado MainNoWin.py
 
 Para poder usar el micrófono para el reconocimiento del habla en python hace falta usar la librería PyAudio la cual se instala con:   pip install PyAudio
 si se presentan dificultades en la instalación de esta librería se recomienda hacer la instalación por medio de un wheel (.whl), en el siguiente enlace (https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio) se encuentran los .whl de PyAudio, se debe seleccionar el .whl según la versión de Py que se este usando. 
