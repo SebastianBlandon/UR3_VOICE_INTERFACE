@@ -5,9 +5,9 @@ Para la realizacion de esta interfaz se usó el lenguaje de programación Python
 con el administrados de librerias de py, pip (version 21.1.2), para instalar cada librerias se usan los siguientes comando en el simbolo del 
 sistema o cmd:
 
-para instalar el paquete que hace el reconocimeinto de voz se usa:   pip install SpeechRecognition
-para instalar el paquete que hace la sintesis de voz se usa:   pip install pyttsx3
-para instalar el paquete que envia las notificaciones se usa:   pip install win10toast
+para instalar el paquete que hace el reconocimeinto de voz se usa:   pip install SpeechRecognition   \\
+para instalar el paquete que hace la sintesis de voz se usa:   pip install pyttsx3              \\
+para instalar el paquete que envia las notificaciones se usa:   pip install win10toast          \\
 **la ultima libreria (win10toast) es nativa de Windows, si tiene otro OS puede insatalas las dependencias o corra el .py que no usa esta libreria
 
 Para poder usar el micrófono para el reconocimiento del habla en python hace falta usar la librería PyAudio la cual se instala con:   pip install PyAudio
