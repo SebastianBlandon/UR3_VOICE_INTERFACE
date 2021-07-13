@@ -20,3 +20,13 @@ Para poder usar el micrófono para el reconocimiento del habla en python hace fa
 si se presentan dificultades en la instalación de esta librería se recomienda hacer la instalación por medio de un wheel (.whl), en el siguiente enlace (https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio) se encuentran los .whl de PyAudio, se debe seleccionar el .whl según la versión de Py que se este usando. 
 Una vez descargado el .whl se debe ir al directorio donde se guardó y se debe hacer el uso del comando en cmd: pip install NOMBRE_DEL_ARCHIVO.whl y esperar 
 a que se instale correctamente.
+
+
+
+*******************
+**RECOMENDACIONES**
+*******************
+
+*Si se está alejado del microfono que se está usando para la adquisision de las señales de audio, hablar fuerte y claro
+*Si se está en una ambiente ruidoso, usar microfonos con cancelación de ruido
+*Hablar justo en en momento que el programa haya activado el microfono para hacer una adquisición de la señal correcta
